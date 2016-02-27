@@ -1,0 +1,8 @@
+Including highest score in History *3
+Enabled by creating a local log to keep track of it
+
+Including multiple lives
+No. It is against the spirit of Flappy Bird. Should never make the game easier only because one cannot get a score high enough .
+
+Duo mode being too hard
+Increase self.miss to 7. I managed to survive 66 "pipes" myself.

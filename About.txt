@@ -1,0 +1,29 @@
+(中&English)
+
+The entire term project project is written in python with eventBasedAnimation by David Kosbie and Tkinter. 
+全部TP均为python语言写成，并使用了David Kosbie的eventBasedAnimation 以及Tkinter.
+
+The original idea of Flappy Bird is from Dong Nguyen's mobile phone game released on May 24, 2013. This is just a fan-made copy by Huayun Huang at Carnegie Mellon University for 15-112's term project, and has no intention of copyright infringement.、
+最初的Flappy Bird的游戏设计灵感来源于阮哈东先生于2013年5月24日发布的手机游戏。本游戏仅为卡内基梅隆大学的黄华韵为15112课程制作的游戏版本，无意侵犯原作版权。
+
+My first plan, "decode vocal", is forced to stop because of an unknown technical issue. Flappy3D is the second plan which involves four mode: 
+Classical Mode: Inherit from the original idea of Mr. Dong Nguyen.
+Normal Mode: The basic 3D construction, where the user “jumps” through all kinds of barriers in a 3D environment.
+Duo mode: 2 players support each other to pass the barriers.
+Reversed Mode: Use "pipes" to capture the birds in 2D environment.
+我的第一个计划“decode vocal”因技术原因被强制终止。Flappy3D 是第二个计划，拥有以下几个游戏模式：
+经典模式：承自阮哈东先生的灵感。
+普通模式：基础的3D构建。用户在一个3D的环境下进行游戏操作。
+搭档模式：双人共同扶持克服难关。
+反转模式：利用“Pipes”捕获小鸟。
+
+Here I sincerely thank all kinds of help from different resources, include but not limited to, 
+my mentor, who gives me advice over the game design;
+my professor, who teaches me everything so far;
+my friends and testers, who discuss and test the game;
+and the Ingress community, who gives me the advice for my first plan "Decode Vocal", and encourage me to move forward.
+在此我衷心感谢来自各方面的帮助，包括但不限于：
+对于游戏设计方面给予我建议的mentor；
+教会我这一切的教授；
+我的朋友兼游戏测试者们；
+以及Ingress社区在第一个计划中给予我的帮助与鼓励。

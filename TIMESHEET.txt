@@ -1,0 +1,85 @@
+=======TP1========
+During Spring break in March:
+Apply the little knowledge of 2D lists and test a little music theory thing. - 2 hr
+
+04/08:
+Seach for and install modules like crazy. - 4hr
+
+04/11:
+Same as above. - 10 hr
+Construct basic GUI. - 2.5 hr
+Write down story board. -1 hr
+
+04/12:
+Office hour with a CA & a mentor and give up - 4 hr
+3D geometry study - 2 hr
+
+04/13:
+Competitive analysis and another story board - 2 hr
+
+04/14:
+Construct basic GUI and drawing pipes in 3D - 1hr40min
+
+04/15
+Competitive analysis and Coding on GUI - 1hr
+Wrap up and sumbit these files. - 1 hr
+
+=======TP2========
+04/16:
+pipe.moveForward( ) - 1hr
+pipe.moveUp() pipe.moveDown() self.addPipe() - 2 hr 30 min
+isCollide() bird.draw() 1hr30min
+
+04/17:
+<midnight after 04/16>
+play the game with myself and lose at the 98th "pipe" - 30min 
+[pipe, PauseButton,bird].draw2D(canvas,self) 1hr
+<wakeUpInTheMorning>
+Convert between 3D and 2D. - 30min
+TitleScreen - 4hr
+
+04/18
+<midnight again...>
+Title screen, pause button, GUI structure adjust - 3hr
+Instruction Animation - 1hr30min
+<wakeUpInTheMorning>
+Continuously Working on art -4hr
+Mode selection screen - 1hr
+lose screen - 1hr
+
+04/20
+drawLifeBar, onMouseMoveFn - 1hr
+class Missile - 2hr
+class Target - 1hr30min
+hitInside(x,y) and parameter adjust - 1hr30min
+(Okay. I am done here...)
+Although I cannot play the duo mode on my own, I am pretty sure it works.
+
+04/21
+(Okay not done yet)
+
+04/22
+<Midnight>
+Missile repair, new motion structure after the small TP session - 4hr
+=======TP3========
+04/23
+Code style - 1hr
+
+04/25
+<Midnight>
+class Executioner, class Challenger added. - 2hr
+<afternoon>
+Implement new mode - 5hr
+
+04/26
+bird animation - 2hr
+
+04/27 
+instruction update & prepare for the screen capture - 1hr
+
+04/28
+highscore record - 1hr
+Video - 1hr
+
+04/29
+wrap up and add caption to the video - 2hr

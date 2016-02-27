@@ -1,0 +1,11 @@
+Problem faced and their solutions
+How can I represent 3D objects in 2D?
+Objects are stored in 3D, and all the controllers are in 3D, too, such as check collision, move, etc. They are only changed into 2D when draw(canvas).
+These are calculated by a function that return the ratio of the 2D drawing to its actual size. In my case, the ratio is described by "the distance to screen" and  "vanishing point at 45 degree".
+How to keep track of the highest score in history?
+At first I am trying to keep track of the score by updating the original log every step. But then I find it totally unnecessary to do so. Thus I now let class GUI store it as an attribute and update the variables within python step by step and only store it into highScore.txt when the game ends.
+How to get a free fall motion?
+In the controllers I control the speed and the acceleration, and each step I simply add the speed to the object's 3D coordinate.
+
+Further notes for the randomization in my code:
+Many things in my code are randomized: the opening in the "pipes", the location of target, the generation, starting speed and location of "Challengers", etc. Even the theme color itself is randomized eachtime onInit(self) is called. I simply want to create an environment to make this game closer to the human being's motion, which is also sort of random. Of course, they are still controlled within a certain range. A good example for this is the theme color, where each time it will generate a greyish color to avoid a too saturated color but still makes the GUI more attractive to human's eye. 
